@@ -66,3 +66,40 @@ Make sure you have **Python 3.8+** installed on your system. You can check your 
 
 ```bash
 python --version
+```
+
+### Installation
+Clone the repository:
+
+```bash
+git clone [https://github.com/taniiishaa/python-programming-foundations.git](https://github.com/taniiishaa/python-programming-foundations.git)
+```
+
+### Navigate into the directory:
+```bash
+cd python-programming-foundations
+```
+
+## 💻 How to Run
+You can run any script individually using Python in your command line:
+
+# Example 1: Run the Calculator
+```bash
+python Calculator.py
+```
+
+# Example 2: Run the To-Do List Application
+```bash
+python "CLI To-Do List Application.py"
+```
+
+# Example 3: Run the Text to Emoji Converter
+```bash
+python "Text to Emoji Converter.py"
+```
+
+## 🌟 Show Your Support
+
+If you found these starter projects helpful or interesting, feel free to give this repository a ⭐ Star!
+
+Happy Coding! 🚀
