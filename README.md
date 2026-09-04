@@ -12,16 +12,6 @@
 
 </div>
 
-## 📌 Table of Contents
-- [About The Repository](#-about-the-repository)
-- [Project Showcase](#-project-showcase)
-- [Key Learning Outcomes](#-key-learning-outcomes)
-- [Getting Started](#-getting-started)
-- [How to Run](#-how-to-run)
-- [Connect & Support](#-connect--support)
-
----
-
 ## 🎯 About The Repository
 
 Welcome to **Python Programming Foundations**! This repository serves as a milestone archive for my initial journey into software development using Python. It compiles **10 practical projects** covering essentials such as control flow, string manipulation, file handling, basic logic structure, and user interaction design.
@@ -83,17 +73,17 @@ cd python-programming-foundations
 ## 💻 How to Run
 You can run any script individually using Python in your command line:
 
-# Example 1: Run the Calculator
+###  Example 1: Run the Calculator
 ```bash
 python Calculator.py
 ```
 
-# Example 2: Run the To-Do List Application
+###  Example 2: Run the To-Do List Application
 ```bash
 python "CLI To-Do List Application.py"
 ```
 
-# Example 3: Run the Text to Emoji Converter
+###  Example 3: Run the Text to Emoji Converter
 ```bash
 python "Text to Emoji Converter.py"
 ```
